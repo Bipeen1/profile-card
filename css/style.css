@@ -1,0 +1,76 @@
+ body {
+     background-color: #19a2ae;
+     text-align: center;
+     font-weight: 700;
+     background-color: #19A2AE;
+     font-family: 'Kumbh Sans', sans-serif;
+     color: #2d3248;
+
+ }
+
+ p {
+     font-weight: lighter;
+     margin: 6px 0 0 0;
+ }
+
+ h3 {
+     margin: 22px 0 0 0;
+ }
+
+ .top-sphere {
+     position: fixed;
+     right: 600px;
+     bottom: 400px;
+ }
+
+ .bottom-sphere {
+     position: fixed;
+     left: 600px;
+     top: 400px;
+ }
+
+ .profile-card {
+     background-color: #ffffff;
+     width: 350px;
+     height: 375px;
+     position: relative;
+     border-radius: 4%;
+     margin: auto;
+     top: 150px;
+     box-shadow: 10px 10px 50px;
+ }
+
+ .name-location {
+     position: relative;
+     bottom: 55px;
+ }
+
+ .card-img {
+     border-radius: 15px 15px 0 0;
+ }
+
+ .profile-pic {
+     border-radius: 100%;
+     border: 4px solid #ffffff;
+ }
+
+ .age {
+     font-weight: lighter;
+ }
+
+ .break {
+     position: relative;
+     bottom: 30px;
+ }
+
+ .col {
+     float: left;
+     width: 33.33%;
+ }
+
+ .row {
+     position: relative;
+     bottom: 45px;
+     padding: 0 25px;
+ }
+
